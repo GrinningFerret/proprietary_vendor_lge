@@ -271,6 +271,8 @@ PRODUCT_COPY_FILES += \
     vendor/lge/w7/proprietary/vendor/lib/libOmxQcelp13Dec.so:system/vendor/lib/libOmxQcelp13Dec.so \
     vendor/lge/w7/proprietary/vendor/lib/libOmxWmaDec.so:system/vendor/lib/libOmxWmaDec.so \
     vendor/lge/w7/proprietary/vendor/lib/libSHIMDivxDrm.so:system/vendor/lib/libSHIMDivxDrm.so \
+    vendor/lge/msm8226-common/proprietary/bin/irrcServer:system/bin/irrcServer \
+    vendor/lge/msm8226-common/proprietary/lib/libirrcJni.so:system/lib/libirrcJni.so \
     vendor/lge/w7/proprietary/bin/adsprpcd:system/bin/adsprpcd \
     vendor/lge/w7/proprietary/vendor/lib/libadsprpc.so:system/vendor/lib/libadsprpc.so \
     vendor/lge/w7/proprietary/vendor/lib/libfastcvadsp_stub.so:system/vendor/lib/libfastcvadsp_stub.so \

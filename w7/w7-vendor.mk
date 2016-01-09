@@ -41,7 +41,10 @@ PRODUCT_PACKAGES += \
     libqmi_common_so \
     libdsi_netctrl \
     libmm-abl \
-    libHevcSwDecoder
+    libHevcSwDecoder \
+    liblgewg \
+    libirrcClient \
+    libirr
 
 #com.qualcomm.services.location
 $(call inherit-product, vendor/lge/w7/w7-vendor-blobs.mk)

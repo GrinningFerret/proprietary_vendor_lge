@@ -20,7 +20,10 @@ DEVICE_PACKAGE_OVERLAYS := vendor/lge/w7/overlay
 # Apps
 PRODUCT_PACKAGES += \
     shutdownlistener \
-    com.qualcomm.location
+    com.qualcomm.location \
+    QuicksetSDK \
+    QuickRemote
+  
 
 PRODUCT_PACKAGES += \
     libtime_genoff \
